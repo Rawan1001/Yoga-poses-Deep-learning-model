@@ -1,12 +1,16 @@
-# Yoga poses (Deep learning model)
-![16-Must-Know-Seated-Yoga-Poses-Grounding-Asanas](https://user-images.githubusercontent.com/90618007/143417503-01c41267-6ede-4940-9300-b3059ac58911.jpg)
+# Yoga Poses (Deep_learning_model)
+![16-Must-Know-Seated-Yoga-Poses-Grounding-Asanas](https://user-images.githubusercontent.com/90618007/144228467-eea2ba72-0718-4785-8d7d-269b85d31700.jpg)
 ## Introduction:
 Yoga Pose Image is a collection of the images for yoga exercises,The pictures mostly consists of one person doing a pose of yoga. In this project we aim to classify and predict the name of the pose. Our goal is to build deep learning model on this data.
 ## Problem statement:
 In this project we have a collection of unordered pictures of yoga poses, and our goal is to classify and predict the name of the pose.
 ## Data Description:
-The dataset we selected is from Keggel [**Yoga Pose Image classification dataset**](https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset).
-Which contains 107 columns and about 6000 pictures.
+The datasets we selected are:
+- from Keggel [**Yoga Pose Image classification dataset**](https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset),the whole dataset.
+- from the website [**New Dataset for Yoga Pose Classification**](https://laurencemoroney.com/2021/08/23/yogapose-dataset.html),200 picture for eash poses.
+- from kaggel [**Yoga Pose Image classification dataset**](https://www.kaggle.com/shrutisaxena/yoga-pose-image-classification-dataset),around 100 picture for each pose.
+Which contains 5 Classes: the Tree Pose, Warrior1 Pose, Downward Dog Pose, godess pose, and the mountain pose. 
+we have about 3478 pictures.
 ## Tools:
 - Jupyter
 - Github
