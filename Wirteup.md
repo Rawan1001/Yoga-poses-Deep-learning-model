@@ -16,8 +16,7 @@ in this porject we worked on five models:
 - for the baseline we used logistic reggresstion and it gave us these scores
 74% for training, 74% for valdation, and 77% for testing portion of the dataset.
 - for the other four models we used manily CNN and one model for transfer learning, all results can be seen in the following table:
-
-
+![Screenshot 2021-12-08 154421](https://user-images.githubusercontent.com/90554959/145210600-362a0db5-a38d-4857-946c-0d57b035a314.png)
 
 ## Conclusion
 In this model we were able to achieve our goal in getting a high accuracy.
